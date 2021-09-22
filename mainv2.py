@@ -61,8 +61,8 @@ yahoo_query = YahooFantasySportsQuery(
     game_code= "nhl",
     offline= False,
     all_output_as_json= False,
-    consumer_key="dj0yJmk9NlY2VkhiRHZPbjdnJmQ9WVdrOVJGSk1iR1ZDZG1JbWNHbzlNQT09JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PWIw",
-    consumer_secret="429dc44703deb362e57f9d6d4ff9314199df746e",
+    consumer_key="enter key",
+    consumer_secret="enter secret",
     browser_callback=browser_callback
 )
 
