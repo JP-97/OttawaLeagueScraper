@@ -1,2 +1,5 @@
-ls -la
-[A[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[Dthis is a test
+ls -la test123456
+
+iq
+:q
+[Asdfsd[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[Dthis is a test
