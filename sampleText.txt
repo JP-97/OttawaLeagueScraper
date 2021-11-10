@@ -1,0 +1,2 @@
+ls -la
+[A[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[Dthis is a test
